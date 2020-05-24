@@ -89,7 +89,8 @@ public class PeopleFilterDemo {
 
 //        Extra credit/honors:
 //        Write a pipeline, given a Person collection, to:
-//        Print each name, followed by number of email addresses; ordered by number of email address, last name, first name
+//        Print each name, followed by number of email addresses; ordered by number of email address,
+//        last name, first name
 
 
 //        Person personArray[] = {johnSmith};
